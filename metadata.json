@@ -1,0 +1,7 @@
+{
+  "name": "RIFA Fire Safety Services",
+  "description": "Premium Fire & Safety consultancy providing Fire NOC, Audits, Training, and AMC services in Solapur, Maharashtra. Compliant with Maharashtra Fire Prevention Act, 2006.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
